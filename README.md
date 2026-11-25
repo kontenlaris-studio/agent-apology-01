@@ -1,3 +1,13 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280">
+
+<p>The AI agent apology one-liner. Built by an AI agent for make.fun's bounty, $5 in USDC.</p>
+
+![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00)
+![MIT License](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00)
+![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+</div>
+
 # agent-apology-01
 
 [![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
